@@ -1,0 +1,418 @@
+enter size of array: 50000
+
+
+
+Size of array: 50000
+
+
+
+
+
+
+-----------------------0------------------------
+
+
+
+
+selectionSort random fill:
+seconds: 11 sec.
+milliseconds: 11653 millisec.
+microseconds: 11653375 microsec.
+
+selectionSort ascending fill:
+seconds: 11 sec.
+milliseconds: 11643 millisec.
+microseconds: 11643250 microsec.
+
+selectionSort descending fill:
+seconds: 16 sec.
+milliseconds: 16634 millisec.
+microseconds: 16634213 microsec.
+
+ bubbleSort random fill:
+seconds: 31 sec.
+milliseconds: 31253 millisec.
+microseconds: 31253261 microsec.
+
+ bubbleSort ascending fill:
+seconds: 32 sec.
+milliseconds: 32092 millisec.
+microseconds: 32092145 microsec.
+
+ bubbleSort descending fill:
+seconds: 36 sec.
+milliseconds: 36543 millisec.
+microseconds: 36543710 microsec.
+
+ bubbleSort recursive random fill:
+seconds: 32 sec.
+milliseconds: 32183 millisec.
+microseconds: 32183491 microsec.
+
+ bubbleSort recursive ascending fill:
+seconds: 32 sec.
+milliseconds: 32073 millisec.
+microseconds: 32073349 microsec.
+
+ bubbleSort recursive descending fill:
+seconds: 35 sec.
+milliseconds: 35942 millisec.
+microseconds: 35942739 microsec.
+
+ quickSort random fill:
+seconds: 18 sec.
+milliseconds: 18824 millisec.
+microseconds: 18824566 microsec.
+
+ quickSort ascending fill:
+seconds: 20 sec.
+milliseconds: 20344 millisec.
+microseconds: 20344000 microsec.
+
+ quickSort descending fill:
+seconds: 43 sec.
+milliseconds: 43005 millisec.
+microseconds: 43005300 microsec.
+
+ MergeSort random fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31612 microsec.
+
+ MergeSort ascending fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31362 microsec.
+
+ MergeSort descending fill:
+seconds: 0 sec.
+milliseconds: 25 millisec.
+microseconds: 25524 microsec.
+
+
+
+-----------------------1------------------------
+
+
+
+
+selectionSort random fill:
+seconds: 11 sec.
+milliseconds: 11635 millisec.
+microseconds: 11635209 microsec.
+
+selectionSort ascending fill:
+seconds: 11 sec.
+milliseconds: 11637 millisec.
+microseconds: 11637060 microsec.
+
+selectionSort descending fill:
+seconds: 16 sec.
+milliseconds: 16517 millisec.
+microseconds: 16517202 microsec.
+
+ bubbleSort random fill:
+seconds: 30 sec.
+milliseconds: 30956 millisec.
+microseconds: 30956527 microsec.
+
+ bubbleSort ascending fill:
+seconds: 30 sec.
+milliseconds: 30853 millisec.
+microseconds: 30853001 microsec.
+
+ bubbleSort descending fill:
+seconds: 35 sec.
+milliseconds: 35270 millisec.
+microseconds: 35270311 microsec.
+
+ bubbleSort recursive random fill:
+seconds: 30 sec.
+milliseconds: 30830 millisec.
+microseconds: 30830416 microsec.
+
+ bubbleSort recursive ascending fill:
+seconds: 31 sec.
+milliseconds: 31013 millisec.
+microseconds: 31013265 microsec.
+
+ bubbleSort recursive descending fill:
+seconds: 36 sec.
+milliseconds: 36060 millisec.
+microseconds: 36060724 microsec.
+
+ quickSort random fill:
+seconds: 21 sec.
+milliseconds: 21834 millisec.
+microseconds: 21834087 microsec.
+
+ quickSort ascending fill:
+seconds: 20 sec.
+milliseconds: 20456 millisec.
+microseconds: 20456582 microsec.
+
+ quickSort descending fill:
+seconds: 43 sec.
+milliseconds: 43113 millisec.
+microseconds: 43113848 microsec.
+
+ MergeSort random fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31488 microsec.
+
+ MergeSort ascending fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31346 microsec.
+
+ MergeSort descending fill:
+seconds: 0 sec.
+milliseconds: 26 millisec.
+microseconds: 26796 microsec.
+
+
+
+-----------------------2------------------------
+
+
+
+
+selectionSort random fill:
+seconds: 11 sec.
+milliseconds: 11837 millisec.
+microseconds: 11837001 microsec.
+
+selectionSort ascending fill:
+seconds: 11 sec.
+milliseconds: 11843 millisec.
+microseconds: 11843143 microsec.
+
+selectionSort descending fill:
+seconds: 17 sec.
+milliseconds: 17026 millisec.
+microseconds: 17026164 microsec.
+
+ bubbleSort random fill:
+seconds: 31 sec.
+milliseconds: 31429 millisec.
+microseconds: 31429477 microsec.
+
+ bubbleSort ascending fill:
+seconds: 31 sec.
+milliseconds: 31129 millisec.
+microseconds: 31129354 microsec.
+
+ bubbleSort descending fill:
+seconds: 35 sec.
+milliseconds: 35478 millisec.
+microseconds: 35478925 microsec.
+
+ bubbleSort recursive random fill:
+seconds: 31 sec.
+milliseconds: 31308 millisec.
+microseconds: 31308041 microsec.
+
+ bubbleSort recursive ascending fill:
+seconds: 31 sec.
+milliseconds: 31409 millisec.
+microseconds: 31409210 microsec.
+
+ bubbleSort recursive descending fill:
+seconds: 35 sec.
+milliseconds: 35862 millisec.
+microseconds: 35862659 microsec.
+
+ quickSort random fill:
+seconds: 22 sec.
+milliseconds: 22126 millisec.
+microseconds: 22126915 microsec.
+
+ quickSort ascending fill:
+seconds: 23 sec.
+milliseconds: 23676 millisec.
+microseconds: 23676116 microsec.
+
+ quickSort descending fill:
+seconds: 43 sec.
+milliseconds: 43560 millisec.
+microseconds: 43560279 microsec.
+
+ MergeSort random fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31425 microsec.
+
+ MergeSort ascending fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31416 microsec.
+
+ MergeSort descending fill:
+seconds: 0 sec.
+milliseconds: 26 millisec.
+microseconds: 26191 microsec.
+
+
+
+-----------------------3------------------------
+
+
+
+
+selectionSort random fill:
+seconds: 11 sec.
+milliseconds: 11845 millisec.
+microseconds: 11845268 microsec.
+
+selectionSort ascending fill:
+seconds: 11 sec.
+milliseconds: 11796 millisec.
+microseconds: 11796697 microsec.
+
+selectionSort descending fill:
+seconds: 17 sec.
+milliseconds: 17057 millisec.
+microseconds: 17057920 microsec.
+
+ bubbleSort random fill:
+seconds: 31 sec.
+milliseconds: 31284 millisec.
+microseconds: 31284313 microsec.
+
+ bubbleSort ascending fill:
+seconds: 31 sec.
+milliseconds: 31326 millisec.
+microseconds: 31326140 microsec.
+
+ bubbleSort descending fill:
+seconds: 35 sec.
+milliseconds: 35575 millisec.
+microseconds: 35575679 microsec.
+
+ bubbleSort recursive random fill:
+seconds: 31 sec.
+milliseconds: 31132 millisec.
+microseconds: 31132342 microsec.
+
+ bubbleSort recursive ascending fill:
+seconds: 30 sec.
+milliseconds: 30995 millisec.
+microseconds: 30995375 microsec.
+
+ bubbleSort recursive descending fill:
+seconds: 35 sec.
+milliseconds: 35696 millisec.
+microseconds: 35696299 microsec.
+
+ quickSort random fill:
+seconds: 25 sec.
+milliseconds: 25267 millisec.
+microseconds: 25267320 microsec.
+
+ quickSort ascending fill:
+seconds: 26 sec.
+milliseconds: 26149 millisec.
+microseconds: 26149244 microsec.
+
+ quickSort descending fill:
+seconds: 43 sec.
+milliseconds: 43478 millisec.
+microseconds: 43478263 microsec.
+
+ MergeSort random fill:
+seconds: 0 sec.
+milliseconds: 32 millisec.
+microseconds: 32113 microsec.
+
+ MergeSort ascending fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31635 microsec.
+
+ MergeSort descending fill:
+seconds: 0 sec.
+milliseconds: 25 millisec.
+microseconds: 25690 microsec.
+
+
+
+-----------------------4------------------------
+
+
+
+
+selectionSort random fill:
+seconds: 11 sec.
+milliseconds: 11743 millisec.
+microseconds: 11743888 microsec.
+
+selectionSort ascending fill:
+seconds: 11 sec.
+milliseconds: 11802 millisec.
+microseconds: 11802659 microsec.
+
+selectionSort descending fill:
+seconds: 17 sec.
+milliseconds: 17101 millisec.
+microseconds: 17101857 microsec.
+
+ bubbleSort random fill:
+seconds: 31 sec.
+milliseconds: 31408 millisec.
+microseconds: 31408318 microsec.
+
+ bubbleSort ascending fill:
+seconds: 31 sec.
+milliseconds: 31542 millisec.
+microseconds: 31542697 microsec.
+
+ bubbleSort descending fill:
+seconds: 35 sec.
+milliseconds: 35872 millisec.
+microseconds: 35872900 microsec.
+
+ bubbleSort recursive random fill:
+seconds: 31 sec.
+milliseconds: 31488 millisec.
+microseconds: 31488852 microsec.
+
+ bubbleSort recursive ascending fill:
+seconds: 31 sec.
+milliseconds: 31512 millisec.
+microseconds: 31512883 microsec.
+
+ bubbleSort recursive descending fill:
+seconds: 35 sec.
+milliseconds: 35777 millisec.
+microseconds: 35777305 microsec.
+
+ quickSort random fill:
+seconds: 29 sec.
+milliseconds: 29611 millisec.
+microseconds: 29611820 microsec.
+
+ quickSort ascending fill:
+seconds: 29 sec.
+milliseconds: 29519 millisec.
+microseconds: 29519762 microsec.
+
+ quickSort descending fill:
+seconds: 43 sec.
+milliseconds: 43775 millisec.
+microseconds: 43775232 microsec.
+
+ MergeSort random fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31371 microsec.
+
+ MergeSort ascending fill:
+seconds: 0 sec.
+milliseconds: 31 millisec.
+microseconds: 31324 microsec.
+
+ MergeSort descending fill:
+seconds: 0 sec.
+milliseconds: 25 millisec.
+microseconds: 25465 microsec.

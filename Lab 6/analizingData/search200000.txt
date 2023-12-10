@@ -1,0 +1,83 @@
+enter size of array: 200000
+
+
+
+Size of array: 200000
+
+
+
+
+
+
+-----------------------0------------------------
+
+
+
+
+linearSearch random fill:
+microseconds: 108 microsec.
+nanosec: 108900 nanosec.
+
+BinarySearch ascending fill:
+microseconds: 0 microsec.
+nanosec: 800 nanosec.
+
+
+
+-----------------------1------------------------
+
+
+
+
+linearSearch random fill:
+microseconds: 96 microsec.
+nanosec: 96000 nanosec.
+
+BinarySearch ascending fill:
+microseconds: 0 microsec.
+nanosec: 200 nanosec.
+
+
+
+-----------------------2------------------------
+
+
+
+
+linearSearch random fill:
+microseconds: 198 microsec.
+nanosec: 198400 nanosec.
+
+BinarySearch ascending fill:
+microseconds: 1 microsec.
+nanosec: 1000 nanosec.
+
+
+
+-----------------------3------------------------
+
+
+
+
+linearSearch random fill:
+microseconds: 149 microsec.
+nanosec: 149300 nanosec.
+
+BinarySearch ascending fill:
+microseconds: 0 microsec.
+nanosec: 900 nanosec.
+
+
+
+-----------------------4------------------------
+
+
+
+
+linearSearch random fill:
+microseconds: 101 microsec.
+nanosec: 101100 nanosec.
+
+BinarySearch ascending fill:
+microseconds: 0 microsec.
+nanosec: 800 nanosec.
